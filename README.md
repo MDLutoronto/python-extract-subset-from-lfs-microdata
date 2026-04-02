@@ -1,5 +1,5 @@
 # [CODE] Using Python to Extract a Subset from LFS Microdata Files
-Python code that demonstrates how to extract a subset of data that matches a particular condition from Labour Force Survey microdata. 
+Python code that demonstrates how to extract a subset of data that matches a particular condition from Labour Force Survey microdata (PUMF). 
 
 ## Problem
 The LFS microdata is available as monthly datasets which are then compiled into annual zip files that collect the monthly files together. It can be tedious to manually open and extract relevant rows to build a new spreadsheet/csv file. 
