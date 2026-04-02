@@ -9,7 +9,7 @@ If the search spans several years, this can quickly become a very time-consuming
 Using Python with the pandas and zipfile packages, we can automate this process and quickly put together a dataset that only contains the rows that match the criteria we are seeking.
 
 ## What it Does
-- Reads a given year span of microdata zipped files and parses just the monthly dataset .csv files within
+- Reads a given year span of microdata zipped files (Public Use Microdata File/PUMF) and parses just the monthly dataset .csv files within
 - Builds a new dataframe using just the rows that match a given criteria
 - Saves the dataframe as a new .csv file
 
